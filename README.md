@@ -8,7 +8,7 @@ I am a full stack developer who loves to showcase the impact of machine learning
 
 * 🌍  I go to school in Nashville, TN.  I live in NJ
 * ✉️  You can contact me at [arnav.chahal@vanderbilt.edu](mailto:arnav.chahal@vanderbilt.edu)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Django & Kubernetes
 * 🤝  I'm open to collaborating on fun Machine learning or optimization projects
 
 ### Skills
