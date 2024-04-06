@@ -4,7 +4,7 @@ Hi! My name is Arnav Chahal
 Vanderbilt CS + Math + Physics Student: Aspiring SWE and ML Engineer
 -------------------------------------
 
-I am a full stack developer who loves to showcase the impact of machine learning projects in a powerful web-app.
+I am a full stack developer who loves to showcase the impact of machine learning projects in powerful web-apps.
 
 * 🌍  I go to school in Nashville, TN.  I live in NJ
 * ✉️  You can contact me at [arnav.chahal@vanderbilt.edu](mailto:arnav.chahal@vanderbilt.edu)
