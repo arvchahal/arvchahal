@@ -6,10 +6,10 @@ Vanderbilt CS + Math + Physics Student: Aspiring SWE and ML Engineer
 
 I am a full stack developer who loves to showcase the impact of machine learning projects in powerful web-apps.
 
-* 🌍  I go to school in Nashville, TN.  I live in NJ
-* ✉️  You can contact me at [arnav.chahal@vanderbilt.edu](mailto:arnav.chahal@vanderbilt.edu)
-* 🧠  I'm learning Django & Kubernetes
-* 🤝  I'm open to collaborating on fun Machine learning or optimization projects
+* I go to school in Nashville, TN.  I live in NJ
+* You can contact me at [arnav.chahal@vanderbilt.edu](mailto:arnav.chahal@vanderbilt.edu)
+* I'm learning Django & Kubernetes
+* I'm open to collaborating on fun Machine learning or optimization projects
 * Currently Interning at Asurion as a DevOps Engineer Intern 
 
 ### Skills
