@@ -10,7 +10,7 @@ I am a full stack developer who loves to showcase the impact of machine learning
 * You can contact me at [arnav.chahal@vanderbilt.edu](mailto:arnav.chahal@vanderbilt.edu)
 * I'm learning Django & Kubernetes
 * I'm open to collaborating on fun Machine learning or optimization projects
-* Currently Interning at Asurion as a DevOps Engineer Intern 
+* Currently Interning at Asurion as a DevOps Engineer Intern for Summer 2024
 
 ### Skills
 
