@@ -11,7 +11,7 @@ I am a full stack developer who loves to showcase machine learning projects in p
 * I'm learning Django & Kubernetes
 * I'm open to collaborating on fun Machine learning or optimization projects
 * Currently Interning at Asurion as a DevOps Engineer Intern for Summer 2024
-* Checkout my website: [https://arvchahal.github.io/portfolio/](url)
+* Checkout my website: [https://arvchahal.github.io/portfolio/](https://arvchahal.github.io/portfolio/)
 ### Skills
 
 <p align="left">
