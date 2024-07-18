@@ -8,9 +8,8 @@ I am a full stack developer who loves to showcase machine learning projects in p
 
 * I go to school in Nashville, TN.  I live in NJ
 * You can contact me at [arnav.chahal@vanderbilt.edu](mailto:arnav.chahal@vanderbilt.edu)
-* I'm learning Django & Kubernetes
+* I'm currently learning how to fine-tune LLMs and CUDA 
 * I'm open to collaborating on fun Machine learning or optimization projects
-* Currently Interning at Asurion as a DevOps Engineer Intern for Summer 2024
 * Checkout my website: [https://arvchahal.github.io/portfolio/](https://arvchahal.github.io/portfolio/)
 ### Skills
 
