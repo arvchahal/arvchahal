@@ -8,7 +8,6 @@ I am a full stack developer who loves to showcase machine learning projects in p
 
 * I go to school in Nashville, TN.  I live in NJ
 * You can contact me at [chahalarnav123@gmail.com](mailto:chahalarnav123@gmail.com)
-* I'm currently learning how to fine-tune LLMs and advanced concets in threading
 * I'm open to collaborating on fun Machine learning or optimization projects
 * Checkout my website: [https://arvchahal.github.io/portfolio/](https://arvchahal.github.io/portfolio/)
 
