@@ -24,6 +24,9 @@ I am a full stack developer who loves to showcase machine learning projects in p
 
 
 <b>Top Languages</b>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvchahal&hide_progress=true)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvchahal)
 
 
