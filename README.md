@@ -17,7 +17,7 @@ I am a full stack developer who loves to showcase machine learning projects in p
 
 ![](https://komarev.com/ghpvc/?username=your-github-arvchahal)
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 
 <a href="http://www.github.com/arvchahal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arvchahal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
