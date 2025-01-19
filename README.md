@@ -1,7 +1,7 @@
 Hi! My name is Arnav Chahal
 ====================================================================================================================================
 
-Vanderbilt CS + Math + Physics Student
+Vanderbilt CS + Math Student
 --------------------------------------
 
 I am a full stack developer who loves to showcase machine learning projects in powerful web-apps.
